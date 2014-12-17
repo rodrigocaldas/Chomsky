@@ -2,7 +2,7 @@ Forma Normal de Chomsky
 =========
 
 Autor:
-	Rodrigo Teixeira Moreira Caldas
+	Rodrigo Teixeira Moreira Caldas;
 	Thiago Pereira Nobre
 
 Finalidade do aplicativo: 
